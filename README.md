@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💸 Tracksy — Smart Expense Tracker & AI Budget Planner
 
-## Getting Started
+🚀 **Tracksy** is your all-in-one personal finance dashboard built with **Next.js**. Easily manage your expenses, scan receipts with AI, plan monthly budgets, and stay in control of your financial goals.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ✨ Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 📊 **Dashboard Overview** – See budgets, expenses, and trends at a glance
+- 🧾 **AI Receipt Scanner** – Snap and scan your receipts automatically
+- 💰 **Monthly Budgeting** – Set and monitor spending limits
+- 🔍 **Transaction Filter** – Quickly filter by category, date, or amount
+- 📁 **Category Breakdown** – Visualize spending habits
+- 📆 **Recurring Expenses Support**
+- 🔐 **User Authentication**
+- ⚡ Built with **Next.js 14**, **Gemini Ai**, **Tailwind CSS**, **ShadCN UI**, **Supabase**, and more
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🖼️ Visit 
 
-## Learn More
+https://tracksy-chi.vercel.app/
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Tech            | Description                          |
+|-----------------|--------------------------------------|
+| 🧠 Next.js       | React-based framework for the frontend |
+| 🎨 Tailwind CSS  | Utility-first CSS for clean UI       |
+| 🧩 ShadCN UI     | Beautiful pre-built components       |
+| 🗃️ Supabase      | Database for storing data      |
+| 🔐 Clerk/Auth    | User authentication and protection   |
+| 🤖 AI Receipt    | Image-to-text using GEMINI AI     |
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🚀 Snapshot
+![image](https://github.com/user-attachments/assets/fc30404e-b28f-4dc6-b314-6bb63e8e1b12)
+![image](https://github.com/user-attachments/assets/0d3d40b8-63d5-4cd7-9a78-d91891f57859)
+![image](https://github.com/user-attachments/assets/ddb2d584-4bc1-4f7f-be19-41e9efe6f1ce)
+![image](https://github.com/user-attachments/assets/0d362284-3036-49e7-8f11-452540ae7406)
+![image](https://github.com/user-attachments/assets/3673222c-f5c0-4ad8-9522-96cd927c8de6)
